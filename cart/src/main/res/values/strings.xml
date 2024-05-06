@@ -1,0 +1,5 @@
+<resources>
+    <string name="cart_business_feature">Módulo de carrinho</string>
+
+    <string name="cart_payment">Efetuar pagamento</string>
+</resources>
